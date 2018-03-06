@@ -6,3 +6,8 @@
 tei-teiHeader {
   display: none;
 }
+
+tei-supplied {font-style: italic;}
+
+tei-persname {color: green
+}

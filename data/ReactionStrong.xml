@@ -4,7 +4,7 @@
 
                 <fileDesc>
                          <titleStmt>
-                                  <title type="main">Reaction Strong to Wallace</title>
+                                  <title type="main">Both Pro and Con:Reaction Strong to Wallace</title>
                                   <title type="sub">Digital Edition</title>
                                   <author>
                                     <persName xml:id="YANG">
@@ -74,10 +74,9 @@
   <text>
       <body>
 
-<head>Both Pro and Con</head>
-<head>Reaction Strong to Wallace</head>
+<head>Both Pro and Con:<lb/>Reaction Strong to Wallace</head>
 <p>By DIANA MCGEE &amp; DON BURROWS</p>
-<p>In response to the question ”What did you th­ink of <persName>Governor Wallace’s</persName> speech?” the students’ answers were
+<p>In response to the question ”What did you th­ink of <persName ref="https://lccn.loc.gov/n82048664">Governor Wallace’s</persName> speech?” the students’ answers were
 as mixed and varied as was the audience in Cole Field House Tuesday evening.</p>
 
 <p><persName>Robert Hill</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName> said, <quote type="positive">I think he was
