@@ -14,86 +14,91 @@
                                     <bibl></bibl>
                           </sourceDesc>
                 </fileDesc>
+                <profileDesc>
+                  <particDesc>
+                <personGrp>
+                      <persName xml:id="BLK">Black and African American people</persName>
+                      <note>This person group is necessary for the reading and interpretation of this text, as this text uses "Negro" (gendered male) to generalize about all black and African American people.</note>
+                  </personGrp>
+                  </particDesc>
+                  </profileDesc>
                   </teiHeader>
   <text>
       <body>
         <head>Wallace Talks at Hopkins Amid Pickets, Supoorters</head>
-        <p> <roleName>Governor</roleName> <persName ref="https://lccn.loc.gov/n82048664">George C. Wallace</persName> of
-        <placeName>Alabama</placeName> spoke to an audience which showed mixed emo­tion at <placeName>Johns Hopkins University</placeName>
-        last Saturday. He was a guest of the <orgName>Young Democratic Club</orgName> of Hopkins.</p>
+<p> <roleName>Governor</roleName> <persName xml:id="WALL" ref="https://lccn.loc.gov/n82048664">George C. Wallace</persName> of
+<placeName>Alabama</placeName> spoke to an audience which showed mixed emo­tion at <orgName xml:id="JOHNS" ref="https://lccn.loc.gov/nb2018003042">Johns Hopkins University</orgName>
+last Saturday. He was a guest of the <orgName>Young Democratic Club</orgName> of <seg corresp="#JOHNS">Hopkins</seg>.</p>
 
-<p>Outside Shriver Hall where the governor spoke
+<p>Outside <placeName type="building">Shriver Hall</placeName> where the <seg corresp="#WALL">governor</seg> spoke
 before a capacity audience, were some 50 pickets
-from <placeName>Hopkins</placeName>, <placeName>Goucher</placeName>, and various local or­
-ganizations. Some people were handing out
-mimeographed attacks on the governor, and a
+from <seg corresp="#JOHNS">Hopkins</seg>, <orgName xml:id="GOUCH" ref="https://lccn.loc.gov/n50071767">Goucher</orgName>, and various local or­ganizations.
+Some people were handing out
+mimeographed attacks on the <seg corresp="#WALL">governor</seg>, and a
 pamphlet supporing the civil rights bill.</p>
 
-<p>Inside the auditorium there were more civil
-rights advocates handing out leaflets that said
-"Let’s greet Wallace in silence,” and asked the
+<p>Inside the auditorium there were more <persName>civil
+rights advocates</persName> handing out leaflets that said
+<quote>"Let’s greet Wallace in silence,”</quote> and asked the
 audience not to applaud, boo, or react in any
-way to the governor’s address.</p>
+way to the <seg corresp="#WALL">governor’s</seg> address.</p>
 
-<p>When <persname>Governor Wallace</persname> walked out on the
+<p>When <persName ref="#WALL">Governor Wallace</persName> walked out on the
 stage, he was greeted by a round of applause
-as about half the people there chose to disre­
-gard the leaflets. His security men were scattered
+as about half the people there chose to disre­gard the leaflets. His security men were scattered
 throughout the auditorium, and reporters from the
 local newspapers took their seats in the front
-row. Flashbulbs exploded as the govemor walked
+row. Flashbulbs exploded as <seg corresp="#WALL">the govemor</seg> walked
 up to the microphone.</p>
 
-<p>The governor opened his speech by stating that
+<p>The <persName ref="#WALL">governor</persName> opened his speech by stating that
 he would like to present <quote>"a different image of
 people in my part of the country than what you
 read in the local press.”</quote> He first dispelled the
 press-created image of the bigoted southerner
 by pointing out that his administration has done
 more to further the cause of racial equality than
-any other administration in Alabama history.
-He added that he had once served on the <placeName>Board
-of Directors of Tuskegee Institute</placeName>, the world re­nouned
-Negro college in Alabama, and that his
-administration has donated over $700,000 to this private institution.</p>
+any other administration in <placeName>Alabama</placeName> history.
+He added that he had once served on the <orgName>Board
+of Directors</orgName> of <orgName xml:id="TUSK" ref="https://lccn.loc.gov/n80036583">Tuskegee Institute</orgName>, the world re­nouned
+<seg corresp="#TUSK"><persName ref="#BLK">Negro</persName> college</seg> in <placeName>Alabama</placeName>, and that his
+administration has donated over $700,000 to this <seg corresp="#TUSK">private institution</seg>.</p>
 
 <p>His administration had also undertaken the
 most far-reaching school building program in the
 state’s history, which includes 26 junior colleges
 and trade schools for his rapidly industrializing
-state: <quote>"By the middle of next year,”</quote> said the
-governor, <quote>"every student in Alabama, regardless
-of his race, will be within busdistanceof a junior
+state: <quote>"By the middle of next year,”</quote> said <persName ref="#WALL">the
+governor</persName>, <quote>"every student in <placeName>Alabama</placeName>, regardless
+of his race, will be within bus distance of a junior
 college or trade school.”</quote></p>
 
 <p>He then began discussing the civil rights bill
-( H. R 7152), a bill he described as "the gravest
+( H. R 7152), a bill <persName ref="#WALL">he</persName> described as "the gravest
 political issue facing this country in years.” He
-quoted two past presidents of the American Bar
-Association who described the bill as "ten per
+quoted two past presidents of the <orgName>American Bar
+Association</orgName> who described the bill as <quote>"ten per
 cent Civil Rights ninety per cent an extension
-of the federal executive power created at the ex­
-pense of individuals, states, and municipalities.”</p>
+of the federal executive power created at the ex­pense of individuals, states, and municipalities.”</quote></p>
 
 <p>He pointed out that he was not here to attack
 personalities, but only to debate the issues. He
 noted that his opponents have not come out with
 any statements on the civil rights bill—the main
 issue in the campaign, but instead have resorted
-to character-assassination. "If the civil rights bill
-is a good as they say it is,” asked the governor,
-referring to the bill’s supporters "why won’t they
+to character-assassination. <quote>"If the civil rights bill
+is a good as they say it is,”</quote> asked the <seg corresp="#WALL">governor</seg>,
+referring to the bill’s supporters <quote>"why won’t they
 face me on statewide television and radio to debate
-the issue?”</p>
+the issue?”</quote></p>
 
-<p>He added that according to the press, any­
+<p><persName ref="#WALL">He</persName> added that according to the press, any­
 body opposed to the bill is a racist, a bigot, is
-prqudiced and immoral. "It’s the bill that’s im­
-moral,” said the governor. "Whenever the fed­
-eral government can tell you who to sell your
+prqudiced and immoral. <quote>"It’s the bill that’s im­moral,”</quote> said the <seg corresp="#WALL">governor</seg>. <quote>"Whenever the
+fed­eral government can tell you who to sell your
 house to, and can jail you without a jury trial
 if you fail to do what they tell you—that’s
-immoral.”</p>
+immoral.”</quote></p>
       </body>
      </text>
      </TEI>

@@ -42,7 +42,7 @@
                                     </respStmt>
                           </titleStmt >
                          <publicationStmt>
-                                    <publisher></publisher>
+                                    <publisher>University of Maryland</publisher>
                                     <pubPlace>
                                       <settlement>College Park</settlement>
                                       <region>MD</region>
@@ -70,60 +70,157 @@
                                     </bibl>
                           </sourceDesc>
                 </fileDesc>
+                <profileDesc>
+                  <particDesc>
+                  <listPerson>
+                  <person>
+                    <persName>
+                      <forename>Robert</forename>
+                      <surname>Hill</surname>
+                    </persName>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Boston</surname>
+                    </persName>
+                    <persName>
+                      <forename>Ernest</forename>
+                      <surname>Kopp</surname>
+                    </persName>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Cole</surname>
+                    </persName>
+                    <persName>
+                        <forename>Diane</forename>
+                        <surname>Holeman</surname>
+                    </persName>
+                    <persName>
+                      <forename>Addie Mae</forename>
+                      <surname>Collins</surname>
+                      <note>This is one of the "four children who died in the church" referenced in the article.</note>
+                    </persName>
+                    <persName>
+                      <forename>Cynthia</forename>
+                      <surname>Wesley</surname>
+                      <note>This is one of the "four children who died in the church" referenced in the article.</note>
+                    </persName>
+                    <persName>
+                      <forename>Carole</forename>
+                      <surname>Robertson</surname>
+                      <note>This is one of the "four children who died in the church" referenced in the article.</note>
+                    </persName>
+                    <persName>
+                      <forename>Carol </forename>
+                      <forename>Denise</forename>
+                      <surname>McNair</surname>
+                      <note>This is one of the "four children who died in the church" referenced in the article.</note>
+                    </persName>
+                    <persName>
+                        <forename>Ronald</forename>
+                        <surname>Jones</surname>
+                    </persName>
+                    <persName>
+                        <forename>David</forename>
+                        <surname>Beardmore</surname>
+                    </persName>
+                    <persName>
+                        <forename>Carolle</forename>
+                        <surname>Foley</surname>
+                    </persName>
+                    <persName>
+                        <forename>Jim</forename>
+                        <surname>Lawrence</surname>
+                    </persName>
+                    <persName>
+                        <forename>Jim</forename>
+                        <surname>Coll</surname>
+                    </persName>
+                    <persName>
+                        <forename>Charles</forename>
+                        <surname>Zitzoff</surname>
+                    </persName>
+                    <persName>
+                        <forename>James</forename>
+                        <surname>Bohar</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ed</forename>
+                        <surname>Bell</surname>
+                    </persName>
+                    <persName>
+                        <forename>Skip</forename>
+                        <surname>Collins</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ernest</forename>
+                        <surname>Stanley</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ed</forename>
+                        <surname>Bell</surname>
+                    </persName>
+                    <persName>
+                        <forename>Felicia</forename>
+                        <surname>Hegemonnley</surname>
+                    </persName>
+                    </person>
+                  </listPerson>
+                  </particDesc>
+                </profileDesc>
                   </teiHeader>
   <text>
       <body>
 
 <head>Both Pro and Con:<lb/>Reaction Strong to Wallace</head>
 <p>By DIANA MCGEE &amp; DON BURROWS</p>
-<p>In response to the question ”What did you th­ink of <persName ref="https://lccn.loc.gov/n82048664">Governor Wallace’s</persName> speech?” the students’ answers were
+<p>In response to the question ”What did you th­ink of <persName ref="https://lccn.loc.gov/n82048664">Governor Wallace’s</persName> speech?” the students' answers were
 as mixed and varied as was the audience in Cole Field House Tuesday evening.</p>
 
-<p><persName>Robert Hill</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName> said, <quote type="positive">I think he was
-great. I wish I could meet him. I believe he is for what America stands for.</quote></p>
+<p><persName>Robert Hill</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName> said, <quote type="positive">"I think he was
+great. I wish I could meet him. I believe he is for what America stands for."</quote></p>
 
-<p><persName>David Boston</persName>, also an <orgName>Engineering</orgName> <roleName>fresh­man</roleName>, felt that <quote type="negative">...
+<p><persName>David Boston</persName>, also an <orgName>Engineering</orgName> <roleName>fresh­man</roleName>, felt that <quote type="negative">"...
 he is a very poor excuse for an American. If democracy is so weak as to accept the principles he proposed, it won’t be long
-until democracy disappears completely.</quote></p>
+until democracy disappears completely."</quote></p>
 
-<p><persName>Ernest Kopp</persName>, a <roleName>junior</roleName> in <orgName>Engineering</orgName> said, <quote type="positive">I think he
-really answered the questions bluntly and truthfully,</quote> while <persName>David Cole</persName>,
-an <orgName>Education</orgName> <roleName>junior</roleName> said, <quote type="negative">I think he twisted and evaded most questions.</quote></p>
+<p><persName>Ernest Kopp</persName>, a <roleName>junior</roleName> in <orgName>Engineering</orgName> said, <quote type="positive">"I think he
+really answered the questions bluntly and truthfully,"</quote> while <persName>David Cole</persName>,
+an <orgName>Education</orgName> <roleName>junior</roleName> said, <quote type="negative">"I think he twisted and evaded most questions."</quote></p>
 
-<p><persName>Diane Holeman</persName>, a <orgName>BPA</orgName> <roleName>sophomore</roleName> said, <quote type="negative">I thought he was rather
-pessimistic and had for­gotten the four children who died in the church.</quote></p>
+<p><persName>Diane Holeman</persName>, a <orgName>BPA</orgName> <roleName>sophomore</roleName> said, <quote type="negative">"I thought he was rather
+pessimistic and had for­gotten the <persName ref="https://lccn.loc.gov/sh2010002573">four children who died in the church</persName>."</quote></p>
 
-<p><persName>Ronald Jones</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName>, said, <quote type="negative">I think that
-his speech was very superficial. He didn’t go deeply into any point The appeal of his speech is the lower, unthinking class.</quote></p>
+<p><persName>Ronald Jones</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName>, said, <quote type="negative">"I think that
+his speech was very superficial. He didn’t go deeply into any point. The appeal of his speech is the lower, unthinking class."</quote></p>
 
-<p><persName>David Beardmore</persName>, an <orgName>A &amp; S</orgName> <roleName>freshman</roleName> said, <quote type="positive">I thought he
+<p><persName>David Beardmore</persName>, an <orgName>A &amp; S</orgName> <roleName>freshman</roleName> said, <quote type="positive">"I thought he
 did a good job of presenting his case. It is a case of state’s rights, not the Negro problem. Many people misinterpret the problem.</quote></p>
 
-<p><persName>Carolle Foley</persName>, an <orgName>A &amp; S</orgName> <roleName>sophomore</roleName>, felt <quote type="negative">He was too stupid for
-words,</quote> while <persName>Jim Lawrence</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName> said,
-<quote type="positive">He’s great, great. He’s for state’s rights.</quote></p>
+<p><persName>Carolle Foley</persName>, an <orgName>A &amp; S</orgName> <roleName>sophomore</roleName>, felt <quote type="negative">"He was too stupid for
+words,""</quote> while <persName>Jim Lawrence</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName> said,
+<quote type="positive">"He’s great, great. He’s for state’s rights.</quote></p>
 
-<p><orgName>BPA</orgName> <roleName>sophomore</roleName>, <persName>Jim Coll</persName> said, <quote type="positive">I thought he was really good.
-He had a lot of facts be­hind what he said,</quote> while <persName>Charles Zitzoff</persName>, an <orgName>A &amp; S</orgName>
-<roleName>sophomore</roleName> felt, <quote type="mixed">He was a very eloquent speaker, but he was a flimflam artist.</quote></p>
+<p><orgName>BPA</orgName> <roleName>sophomore</roleName>, <persName>Jim Coll</persName> said, <quote type="positive">"I thought he was really good.
+He had a lot of facts be­hind what he said,""</quote> while <persName>Charles Zitzoff</persName>, an <orgName>A &amp; S</orgName>
+<roleName>sophomore</roleName> felt, <quote type="mixed">"He was a very eloquent speaker, but he was a flimflam artist.</quote></p>
 
-<p><persName>James Bohar</persName>, an <orgName>A &amp; S</orgName> <roleName>senior</roleName> said, <quote type="mixed">When I went in, I
-was dead set against him, but now I feel more positive toward him. He confused state’s rights with the integration issue.</quote></p>
+<p><persName>James Bohar</persName>, an <orgName>A &amp; S</orgName> <roleName>senior</roleName> said, <quote type="mixed">"When I went in, I
+was dead set against him, but now I feel more positive toward him. He confused state’s rights with the integration issue."</quote></p>
 
-<p><persName>Ed Bell</persName>, a <orgName>BPA</orgName> <roleName>sophomore</roleName> said, <quote type="mixed">It was interesting.
-I came to hear what he had to say. Some of it sounded rational and some of it was idiotic.</quote></p>
+<p><persName>Ed Bell</persName>, a <orgName>BPA</orgName> <roleName>sophomore</roleName> said, <quote type="mixed">"It was interesting.
+I came to hear what he had to say. Some of it sounded rational and some of it was idiotic."</quote></p>
 
-<p><persName>Skip Collins</persName>, an <orgName>A &amp;S</orgName> <roleName>junior</roleName> stated, <quote type="negative">I thought he
-was giving very weak retorts. He appealed mainly to emotion. It was very obvious that he was predjudiced.</quote></p>
+<p><persName>Skip Collins</persName>, an <orgName>A &amp;S</orgName> <roleName>junior</roleName> stated, <quote type="negative">"I thought he
+was giving very weak retorts. He appealed mainly to emotion. It was very obvious that he was predjudiced."</quote></p>
 
 <p>An <orgName>Industrial Education</orgName> <roleName>sophomore</roleName>, <persName>Ernest Stanley</persName>, said,
-<quote type="neutral">It’s the same thing over and over. I even read some of it in the Tuesday’s Diamond­back.</quote></p>
+<quote type="neutral">"It’s the same thing over and over. I even read some of it in the Tuesday’s Diamond­back."</quote></p>
 
-<p>One <roleName>freshman</roleName> co-ed, who refused to be identified, said, <quote type="neutral">I just wish that everyone would have
-let him say what he wanted without in­terrupting.</quote></p>
+<p>One <roleName>freshman</roleName> co-ed, who refused to be identified, said, <quote type="neutral">"I just wish that everyone would have
+let him say what he wanted without in­terrupting."</quote></p>
 
-<p><persName>Felecia Hegamonnley</persName>, an <orgName>Education</orgName> <roleName>freshman</roleName> said, <quote type="negative">I don’t like
-him too much. He’s not good­ looking.</quote></p>
+<p><persName>Felecia Hegamonnley</persName>, an <orgName>Education</orgName> <roleName>freshman</roleName> said, <quote type="negative">"I don’t like
+him too much. He’s not good­ looking."</quote></p>
  </body>
 </text>
 </TEI>

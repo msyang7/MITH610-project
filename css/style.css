@@ -9,5 +9,7 @@ tei-teiHeader {
 
 tei-supplied {font-style: italic;}
 
-tei-persname {color: green
+tei-persname {color: 4682B4
+}
+tei-quote {color: 3CB371
 }
