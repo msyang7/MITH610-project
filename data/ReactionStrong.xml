@@ -67,9 +67,26 @@
                                       <biblScope unit="volume">55</biblScope>
                                       <biblScope unit="number">101</biblScope>
                                       <biblScope unit="page">8</biblScope>
+                                      <interpGrp resp="#YANG" type="attitude">
+                                        <desc>Coding of the attitude reflected by students' responses to Wallace's speech</desc>
+                                        <interp type="positive">Approved of Wallace</interp>
+                                        <interp type="negative">Disapproved of Wallace</interp>
+                                        <interp type="mixed">Expressed mixed response to Wallace</interp>
+                                        <interp type="neutral">Appeared not to react to Wallace's remarks</interp>
+                                      </interpGrp>
                                     </bibl>
                           </sourceDesc>
                 </fileDesc>
+                <encodingDesc>
+                  <editorialDecl>
+                    <normalization>
+                      <p> I encoded this article with the goal to make it easier to read.
+                        I did not want to create a model of how the article looked on the page.
+                        Therefore, I have privileged content over form.
+                        Line and column breaks have not been retained.</p>
+                    </normalization>
+                  </editorialDecl>
+                </encodingDesc>
                 <profileDesc>
                   <particDesc>
                   <listPerson>
