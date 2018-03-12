@@ -2,26 +2,86 @@
 <?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> <teiHeader>
 
-                <fileDesc>
-                         <titleStmt>
-                                  <title > </title > <title></title>
-                                  <author></author>
-                          </titleStmt >
-                         <publicationStmt>
-                                    <p></p>
-                          </publicationStmt>
-                           <sourceDesc>
-                                    <bibl></bibl>
-                          </sourceDesc>
-                </fileDesc>
-                <profileDesc>
+  <fileDesc>
+           <titleStmt>
+                    <title type="main">Wallace Talks at Hopkins Amid Pickets, Supporters</title>
+                    <title type="sub">Digital Edition</title>
+                    <author>
+                      <persName xml:id="YANG">
+                        <forename>Misti</forename>
+                        <surname>Yang</surname>
+                      </persName>
+                      </author>
+                      <respStmt>
+                        <resp>Encoded by</resp>
+                        <name ref="YANG">
+                          <forename>Misti</forename>
+                          <surname>Yang</surname>
+                        </name>
+                      </respStmt>
+                      <respStmt>
+                        <resp>Training provided by</resp>
+                        <persName xml:id="RV">Raffaele Viglianti</persName>
+                      </respStmt>
+                      <respStmt>
+                        <resp>Training provided by</resp>
+                        <persName xml:id="JLU">Jessica Lu</persName>
+                      </respStmt>
+                      <respStmt>
+                        <resp>Original TEI template provided by</resp>
+                        <persName ref="#RV">Raffaele Viglianti</persName>
+                      </respStmt>
+                      <respStmt>
+                        <resp>Student newspapers archived and provided by</resp>
+                        <orgName xml:id="UA">University Archives
+                          <placeName>University of Maryland
+                            <settlement>College Park</settlement>
+                            <region>Maryland</region>
+                          </placeName>
+                        </orgName>
+                      </respStmt>
+            </titleStmt >
+           <publicationStmt>
+                      <publisher>University of Maryland</publisher>
+                      <pubPlace>
+                        <settlement>College Park</settlement>
+                        <region>MD</region>
+                      </pubPlace>
+                      <date>March 2018</date>
+            </publicationStmt>
+             <sourceDesc>
+                      <bibl>
+                        <title>The Diamondback</title>
+                        <publisher>University of Maryland, College Park</publisher>
+                        <pubPlace>
+                        <settlement>College Park</settlement>
+                        <region>MD</region>
+                      </pubPlace>
+                        <date when="1964-05-12">May 12, 1964</date>
+                        <biblScope unit="volume">55</biblScope>
+                        <biblScope unit="number">99</biblScope>
+                        <biblScope unit="page">5</biblScope>
+                      </bibl>
+            </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <editorialDecl>
+      <normalization>
+        <p> I encoded this article with the goal of making it easier to read.
+          I did not want to create a model of how the article looked on the page.
+          Therefore, I have privileged content over form and
+          line and column breaks have not been retained.</p>
+      </normalization>
+    </editorialDecl>
+  </encodingDesc>
+    <profileDesc>
                   <particDesc>
                 <personGrp>
                       <persName xml:id="BLK">Black and African American people</persName>
                       <note>This person group is necessary for the reading and interpretation of this text, as this text uses "Negro" (gendered male) to generalize about all black and African American people.</note>
                   </personGrp>
                   </particDesc>
-                  </profileDesc>
+    </profileDesc>
                   </teiHeader>
   <text>
       <body>
@@ -31,11 +91,10 @@
 last Saturday. He was a guest of the <orgName>Young Democratic Club</orgName> of <seg corresp="#JOHNS">Hopkins</seg>.</p>
 
 <p>Outside <placeName type="building">Shriver Hall</placeName> where the <seg corresp="#WALL">governor</seg> spoke
-before a capacity audience, were some 50 pickets
+before a capacity audience, were some <persName>50 pickets</persName>
 from <seg corresp="#JOHNS">Hopkins</seg>, <orgName xml:id="GOUCH" ref="https://lccn.loc.gov/n50071767">Goucher</orgName>, and various local or­ganizations.
-Some people were handing out
-mimeographed attacks on the <seg corresp="#WALL">governor</seg>, and a
-pamphlet supporing the civil rights bill.</p>
+Some people were <quote>handing out mimeographed attacks</quote> on the <seg corresp="#WALL">governor</seg>, and a
+<quote>pamphlet supporing the civil rights bill</quote>.</p>
 
 <p>Inside the auditorium there were more <persName>civil
 rights advocates</persName> handing out leaflets that said
@@ -76,8 +135,7 @@ college or trade school.”</quote></p>
 <p>He then began discussing the civil rights bill
 ( H. R 7152), a bill <persName ref="#WALL">he</persName> described as <quote>"the gravest
 political issue facing this country in years.”</quote> He
-quoted two past presidents of the <orgName>American B
-ar
+quoted two past presidents of the <orgName>American Bar
 Association</orgName> who described the bill as <quote>"ten per
 cent Civil Rights ninety per cent an extension
 of the federal executive power created at the ex­pense of individuals, states, and municipalities.”</quote></p>

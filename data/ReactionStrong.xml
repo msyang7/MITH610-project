@@ -80,9 +80,9 @@
                 <encodingDesc>
                   <editorialDecl>
                     <normalization>
-                      <p> I encoded this article with the goal to make it easier to read.
+                      <p> I encoded this article with the goal of making it easier to read.
                         I did not want to create a model of how the article looked on the page.
-                        Therefore, I have privileged content over form, and
+                        Therefore, I have privileged content over form and
                         line and column breaks have not been retained.</p>
                     </normalization>
                   </editorialDecl>
@@ -182,13 +182,17 @@
                     </persName>
                     </person>
                   </listPerson>
+                <personGrp>
+                  <persName> xml:id="BLK">Black and African American people</persName>
+                  <note>This person group is necessary for the reading and interpretation of this text, as this text uses "Negro" (gendered male) to generalize about all black and African American people.</note>
+              </personGrp>
                   </particDesc>
                 </profileDesc>
                   </teiHeader>
   <text>
       <body>
 
-<head>Both Pro and Con:<lb/>Reaction Strong to Wallace</head>
+<head>Both Pro and Con: Reaction Strong to Wallace</head>
 <p>By DIANA MCGEE &amp; DON BURROWS</p>
 <p>In response to the question ”What did you th­ink of <persName ref="https://lccn.loc.gov/n82048664">Governor Wallace’s</persName> speech?” the students' answers were
 as mixed and varied as was the audience in Cole Field House Tuesday evening.</p>
@@ -211,7 +215,7 @@ pessimistic and had for­gotten the <persName ref="https://lccn.loc.gov/sh201000
 his speech was very superficial. He didn’t go deeply into any point. The appeal of his speech is the lower, unthinking class."</quote></p>
 
 <p><persName>David Beardmore</persName>, an <orgName>A &amp; S</orgName> <roleName>freshman</roleName> said, <quote type="positive">"I thought he
-did a good job of presenting his case. It is a case of state’s rights, not the Negro problem. Many people misinterpret the problem."</quote></p>
+did a good job of presenting his case. It is a case of state’s rights, not the <persName ref="#BLK">Negro</persName> problem. Many people misinterpret the problem."</quote></p>
 
 <p><persName>Carolle Foley</persName>, an <orgName>A &amp; S</orgName> <roleName>sophomore</roleName>, felt <quote type="negative">"He was too stupid for
 words,"</quote> while <persName>Jim Lawrence</persName>, an <orgName>Engineering</orgName> <roleName>freshman</roleName> said,
