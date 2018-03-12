@@ -9,7 +9,7 @@ tei-teiHeader {
 
 tei-supplied {font-style: italic;}
 
-tei-persname {color: orange
+tei-persname {color: #FF00FF; font-size: 20
 }
-tei-quote {color: 3CB371; font-size: 20
+tei-quote {color: orange; font-size: 20
 }
