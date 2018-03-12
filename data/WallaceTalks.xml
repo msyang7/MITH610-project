@@ -25,7 +25,7 @@
                   </teiHeader>
   <text>
       <body>
-        <head>Wallace Talks at Hopkins Amid Pickets, Supoorters</head>
+        <head>Wallace Talks at Hopkins Amid Pickets, Supporters</head>
 <p> <roleName>Governor</roleName> <persName xml:id="WALL" ref="https://lccn.loc.gov/n82048664">George C. Wallace</persName> of
 <placeName>Alabama</placeName> spoke to an audience which showed mixed emo­tion at <orgName xml:id="JOHNS" ref="https://lccn.loc.gov/nb2018003042">Johns Hopkins University</orgName>
 last Saturday. He was a guest of the <orgName>Young Democratic Club</orgName> of <seg corresp="#JOHNS">Hopkins</seg>.</p>
@@ -44,8 +44,8 @@ audience not to applaud, boo, or react in any
 way to the <seg corresp="#WALL">governor’s</seg> address.</p>
 
 <p>When <persName ref="#WALL">Governor Wallace</persName> walked out on the
-stage, he was greeted by a round of applause
-as about half the people there chose to disre­gard the leaflets. His security men were scattered
+stage, he was greeted by <quote>a round of applause</quote>
+as about <persName>half the people</persName> there chose to disre­gard the leaflets. His security men were scattered
 throughout the auditorium, and reporters from the
 local newspapers took their seats in the front
 row. Flashbulbs exploded as <seg corresp="#WALL">the govemor</seg> walked
@@ -59,8 +59,8 @@ press-created image of the bigoted southerner
 by pointing out that his administration has done
 more to further the cause of racial equality than
 any other administration in <placeName>Alabama</placeName> history.
-He added that he had once served on the <orgName>Board
-of Directors</orgName> of <orgName xml:id="TUSK" ref="https://lccn.loc.gov/n80036583">Tuskegee Institute</orgName>, the world re­nouned
+He added that he had once served on the <orgName xml:id="TUSK" ref="https://lccn.loc.gov/n80036583">Board
+of Directors of Tuskegee Institute</orgName>, the world re­nouned
 <seg corresp="#TUSK"><persName ref="#BLK">Negro</persName> college</seg> in <placeName>Alabama</placeName>, and that his
 administration has donated over $700,000 to this <seg corresp="#TUSK">private institution</seg>.</p>
 
@@ -74,9 +74,10 @@ of his race, will be within bus distance of a junior
 college or trade school.”</quote></p>
 
 <p>He then began discussing the civil rights bill
-( H. R 7152), a bill <persName ref="#WALL">he</persName> described as "the gravest
-political issue facing this country in years.” He
-quoted two past presidents of the <orgName>American Bar
+( H. R 7152), a bill <persName ref="#WALL">he</persName> described as <quote>"the gravest
+political issue facing this country in years.”</quote> He
+quoted two past presidents of the <orgName>American B
+ar
 Association</orgName> who described the bill as <quote>"ten per
 cent Civil Rights ninety per cent an extension
 of the federal executive power created at the ex­pense of individuals, states, and municipalities.”</quote></p>
